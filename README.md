@@ -1,4 +1,4 @@
-# CSE_587_Midterm_Project
+# 587: Sentiment Analysis orf Movie Reviews
 In this project we did sentiment analysis on the IMDB dataset, classifying a movie review as positive or negative. We have used Glove and Word2Vec embeddings and used different deep learning models to classify the reviews.
 
 # Running the code
